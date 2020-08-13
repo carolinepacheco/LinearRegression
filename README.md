@@ -21,9 +21,6 @@ The best-fitting line (or regression line) is represented by:
 where m is the slope of the line known as angular gradient and b is the point at which the line crosses the y-axis also known as linear gradient.
 
 
-You can find more details about Linear Regression at https://medium.com/p/dee84865cbf7.
-
-
 
 ## Prerequisites (my environments)
  
@@ -34,3 +31,6 @@ You can find more details about Linear Regression at https://medium.com/p/dee848
  * Matplotlib
  
  * Sklearn
+ 
+ 
+ You can find more details about Linear Regression at https://medium.com/p/dee84865cbf7.
