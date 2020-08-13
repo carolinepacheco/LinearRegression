@@ -1,13 +1,10 @@
-# LinearRegression
-
-Last Page Update: **13/08/2020**
-
-
 A python implementation of linear regression written from scratch
 
 
 Linear Regression
 ---------------------------------------------------
+
+Last Page Update: **13/08/2020**
 
 Linear Regression is one of the most popular supervised machine learning. It predicts values within a continuous range, (e.g. sale prices, life expectancy, temperature, etc) instead of trying to classify them into categories (e.g. car, bus, bike and others). The main goal of the linear regression is to find the best fit line which describes the relationship between the data.
 
