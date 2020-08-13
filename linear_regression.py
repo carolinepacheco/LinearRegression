@@ -6,10 +6,17 @@ E-mail: lolyne.oacheco@gmail.com
 
 import numpy as np
 import matplotlib.pylab as plt
-from sklearn.datasets import make_regression
+from sklearn import datasets
+
 
 # Generate a random regression data
-X, y = make_regression(n_samples=120, n_features=1, noise=0.4, bias=50)
+n_samples = 1000
+n_outliers = 50
+
+
+X, y, coef = datasets.make_regression(n_samples=n_samples, n_features=1,
+                                      n_informative=1, noise=10,
+                                      coef=True, random_state=0)
 
 # The equation of a straight line is represented by: y = mx + b. 
 # The (m, b) are two variables that can updat.
