@@ -24,6 +24,7 @@ where m is the slope of the line known as angular gradient and b is the point at
 You can find more details about Linear Regression at https://medium.com/p/dee84865cbf7.
 
 
+
 ## Prerequisites (my environments)
  
  * Python 3.8.3 
