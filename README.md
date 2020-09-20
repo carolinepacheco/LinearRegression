@@ -22,7 +22,7 @@ where m is the slope of the line known as angular gradient and b is the point at
 
 
 
-## Prerequisites (my environments)
+## Prerequisites (my environment)
  
  * Python 3.8.3 
  
